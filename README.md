@@ -79,7 +79,7 @@ Click **"Load BCR-ABL Example"** on the Target Protein tab to instantly run the 
 
 ## 🧠 How It Works
 
-![PepAI Pipeline](https://github.com/user-attachments/assets/59788722-b39c-4500-93ad-f296ce568bc3)
+![PepAI Pipeline]([https://github.com/user-attachments/assets/59788722-b39c-4500-93ad-f296ce568bc3](https://github.com/user-attachments/assets/b1de8bc8-325e-431e-848c-533e1099272b))
 
 ---
 
