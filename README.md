@@ -393,6 +393,6 @@ If you use PepAI in your research, please cite:
 
 <div align="center">
 
-Built with ❤️ by [InteractIQ](https://github.com/InteractIQ) · AI-first drug discovery
+Built by [InteractIQ](https://github.com/InteractIQ) · AI-first drug discovery
 
 </div>
