@@ -3,8 +3,6 @@
 <img src="https://github.com/user-attachments/assets/59788722-b39c-4500-93ad-f296ce568bc3" 
      alt="PepAI Logo" width="160" height="235"/>
 
-# PepAI
-
 ### AI-Augmented Peptide Discovery Pipeline
 
 [![R](https://img.shields.io/badge/R-%3E%3D4.0-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
