@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="www/pepai_logo.png" alt="PepAI Logo" width="160"/>
+<img width="476" height="701" alt="Image" src="https://github.com/user-attachments/assets/59788722-b39c-4500-93ad-f296ce568bc3" />
 
 # PepAI
 
