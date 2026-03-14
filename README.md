@@ -80,27 +80,7 @@ Click **"Load BCR-ABL Example"** on the Target Protein tab to instantly run the 
 ## 🧠 How It Works
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                        PepAI Pipeline                           │
-│                                                                 │
-│  [FASTA]──►[Agent 1: ESM-2]──►[Agent 2: Pocket]               │
-│                │                      │                         │
-│                ▼                      ▼                         │
-│  [Agent 3: Ligand GNN]◄──────[Pharmacophore]                   │
-│                │                                                │
-│                ▼                                                │
-│  [Agent 4: ProteinMPNN Generator]                               │
-│                │                                                │
-│                ▼                                                │
-│  [Agent 5: AutoDock Evaluator]                                  │
-│                │                                                │
-│                ▼                                                │
-│  [Agent 6: Bayesian Optimizer] ◄──── feedback loop ────┐       │
-│                │                                        │       │
-│                └────────────────────────────────────────┘       │
-│                                                                 │
-│  OUTPUT: Ranked peptide candidates with ADMET profiles         │
-└─────────────────────────────────────────────────────────────────┘
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e6d2717b-6b66-411d-8ebf-b524b2b40c05" />
 ```
 
 ---
